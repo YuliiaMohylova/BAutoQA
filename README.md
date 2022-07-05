@@ -1,1 +1,2 @@
 # BAutoQA
+Test notes
