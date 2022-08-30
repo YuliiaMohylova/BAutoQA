@@ -1,2 +1,0 @@
-class DatabaseProvider:
-    pass
