@@ -11,14 +11,6 @@ class UsersProvider:
             'password': 'fake_password'
         }
 
-    @staticmethod
-    def existing_user():
-        return {
-            'login': 'defunkt',
-            'id': 2,
-            'password': 'password'
-        }
-
 
     @staticmethod
     def wordpress_existing_user():
