@@ -1,0 +1,2 @@
+class WordPressLogger:
+    pass
